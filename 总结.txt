@@ -1,0 +1,44 @@
+﻿react router主要包含9部分内容：
+1.最为简单导航操作 angular stateProvider/state
+2.实现路由的链接点击操作 ui-sref
+3.实现基础的嵌套操作 parent.child
+4.激活状态的链接，将链接内容编写成子组件 ui-sref-active
+5.参数传递操作 /:argument
+6.更为复杂的嵌套 parent.child.child
+7.默认首页操作 otherwise
+8.默认首页激活状态的设置 ui-sref-active
+9.页内导航模式 
+10.多视图操作 {this.props.children}
+
+
+了解commonjs es5 es6 amd cmd
+ 
+jquery zepto angular 
+
+swiper lodash moment iscroll
+
+利用掌握的知识进行业务功能的开发 应用了h5c3新属性，sass less
+
+gulp webpack grunt
+
+git svn
+
+ide的工具 sublime hbuilder webstorm
+
+webapp 情况 工具 技术 难点
+
+延伸开：app --> 微信 混合App的打包
+
+angular 商业业务流程显著的项目处理非常快速（依赖注入 双向数据绑定 过滤器 服务） -->  健康相关的项目（接口）：ui-router、因为
+spa，所以统一入口根据业务需求实现过滤的操作
+
+-----------项目部分------------
+0.项目分类（pc、webapp、微信jssdk、混合开发）
+1.项目名称（有可能截图缩略图）
+2.项目简介（angular+bootstrap+gulp）
+3.项目详情（团队、时间、主要技术点[sass、angular、ui-router]）
+4.运用工具（gulp、webpack、sublime、git、svn）
+5.项目难点（重点是解决方案）
+
+----------简历部分------------
+--> 150字左右的个人总结
